@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaefae
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Python and Rust (I'm also a CompSci major at the University of Florida)
 - 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me: GitHub
 - 😄 Pronouns: they/them
