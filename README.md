@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaefae
-- 👀 I’m interested in Web Development, Data Science, and Machine learning
+- 👀 I’m interested in Low-level programming and performance-critical code
 - 🌱 I’m currently studying at the University of Florida
 - 💞️ I’m looking to collaborate on open-source projects
 - 😄 Pronouns: he/him
