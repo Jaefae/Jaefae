@@ -19,7 +19,7 @@ Two years as a school-district IT technician before college, which is still how 
 
 `C++` `Rust` `Python` `Lua` `SQL` `RISC-V assembly` `JavaScript` `WebAssembly`
 
-CMake · GoogleTest · Catch2 · GDB · Valgrind · Linux
+CMake · GoogleTest · Catch2 · ftxtui · Dioxus · GDB · Valgrind · Linux · Windows · MacOS · Dioxus 
 
 ---
 
